@@ -1,0 +1,51 @@
+html{
+  background-image: url('images/image.jpg');
+  background-size: cover;
+  background-color: black; color: white;">
+}
+
+canvas{
+  z-index: 2;
+}
+
+.text{
+  text-align: center;
+  color:#ffffff6b;
+  font-size: 25px;
+  width: 100%;
+  top:130px;
+  position: absolute;
+  margin:0 auto;
+  display: block;
+}
+nav {
+  height: 20px;
+  background-color: #000000;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 65px;
+}
+
+nav li a:link, nav li a:visited {
+  color: #ddd;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+
+
+
+
+
